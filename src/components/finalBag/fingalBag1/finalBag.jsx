@@ -77,6 +77,9 @@ export default function FinalBag() {
       <div className='div1'>
       <ColorBar className="colorBar"></ColorBar>
       </div>
+      <div className='div2'>
+        <button className='saveBtn'>SAVE YOUR APHRODITE</button>
+      </div>
 
 
 

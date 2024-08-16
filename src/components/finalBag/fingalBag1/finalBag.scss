@@ -62,6 +62,24 @@
     }
     .div1{
         height:40px;
-        margin-top: 48px;
+        margin-top: 22px;
+    }
+    .div2{
+        margin-top: 46px;
+        @media (max-width:814px){
+            margin-top: 80px;
+        }
+    }
+    .saveBtn{
+        border: 1px solid #d1a543;
+        color: #d1a543;
+        background: #fff;
+        border-radius: 75px 25px;
+        cursor: pointer;
+        font-family: Montserrat, Sans-serif;
+        font-size: 15px;
+        font-style: italic;
+        font-weight: 600;
+        padding: 8px 30px;
     }
 }
